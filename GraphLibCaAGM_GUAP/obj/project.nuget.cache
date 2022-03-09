@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ULdkUHGLttlQUy96uHZPNS9rdCIJD9zweErWXGqHmPTNmf+jzThAcooKIJrxvnn8n/SDTE/f7Lar9g1wduekQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usr1\\source\\repos\\GraphLibCaAGM_GUAP\\GraphLibCaAGM_GUAP\\GraphLibCaAGM_GUAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usr1\\.nuget\\packages\\quickgraph\\3.6.61119.7\\quickgraph.3.6.61119.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"QuickGraph 3.6.61119.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "QuickGraph",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
